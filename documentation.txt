@@ -1,0 +1,2 @@
+The map.py script and oregonmap.csv files used for this workshop activity were created by Andrea Cleland (GitHub: acleland). The original repository URL is: https://github.com/acleland/turtle-graphics-map. The materials are made avaialble under the MIT License (c) 2014 Andrew Cleland.
+
